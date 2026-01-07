@@ -5,7 +5,7 @@ The goal of this project is to understand how modern data warehouses work in rea
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
-https://drive.google.com/file/d/11-EoxVLvsWNpYsgFe51N-BqCVOG58Hyp/view?usp=sharing
+[Data Architecture] (https://drive.google.com/file/d/11-EoxVLvsWNpYsgFe51N-BqCVOG58Hyp/view?usp=sharing)
 
 1. **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
 2. **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.

@@ -25,8 +25,8 @@ Insert into Silver.crm_cust_info(
 		cst_key,
 		cst_firstname,
 		cst_lastname,
+        cst_material_status,
 		cst_gndr,
-		cst_material_status,
 		cst_create_date
 		
 ) 

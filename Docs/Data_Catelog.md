@@ -6,10 +6,10 @@ The Gold Layer is the business-level data representation structured to support a
 
 1. gold.dim_customer
 
-Purpose:
-Stores customer details enriched with demographic and geographic data.
+  Purpose:
+  Stores customer details enriched with demographic and geographic data.
 
-Columns:
+  Columns:
 | Column Name            | Data Type    | Description                                                                      |
 | ---------------------- | ------------ | -------------------------------------------------------------------------------- |
 | **cst_id**             | INT          | Source system customer identifier.                                               |
